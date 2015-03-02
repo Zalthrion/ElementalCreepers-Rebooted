@@ -42,6 +42,6 @@ update.elementalcreepers.new=Nueva Version:
 
 config.elementalcreepers.spawnRates=Probabilidad de Aparición de Creepers
 config.elementalcreepers.explosionConfig=Configuración de Explosión de Creeper
-config.elementalcreepers.cookies=El número de galletas que un Creeper Galleta da
+config.elementalcreepers.cookies=El número de galletas que un Creeper Galleta da.
 config.elementalcreepers.domeEx=Activar explosiones en domo (En vez de explosiones con colocaciones de bloques al azar)
 config.elementalcreepers.specialEvents=Permite renderización especial durante ciertos eventos.
